@@ -8,3 +8,8 @@
 4. Day 4 - Ugly Number II - [Problem 264](https://leetcode.com/problems/ugly-number-ii/)
 5. Day 5 - Hamming Distance - [Problem 461](https://leetcode.com/problems/hamming-distance/)
 6. Day 6 - Plus One - [Problem 66](https://leetcode.com/problems/plus-one/)
+7. Day 7 - Island Perimeter - [Problem 463](https://leetcode.com/problems/island-perimeter/)
+
+## Week 2
+
+1. Day 1 - 3Sum - [Problem 15](https://leetcode.com/problems/3sum/)
