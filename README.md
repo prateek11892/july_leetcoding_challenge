@@ -13,3 +13,4 @@
 ## Week 2
 
 1. Day 1 - 3Sum - [Problem 15](https://leetcode.com/problems/3sum/)
+2. Day 2 - Maximum Width of Binary Tree - [Problem 662](https://leetcode.com/problems/maximum-width-of-binary-tree/)
