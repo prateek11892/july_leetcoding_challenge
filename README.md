@@ -28,3 +28,4 @@
 3. Day 3 - Top K Frequent Elements - [Problem 347](https://leetcode.com/problems/top-k-frequent-elements/)
 4. Day 4 - Course Schedule II - [Problem 210](https://leetcode.com/problems/course-schedule-ii/)
 5. Day 5 - Add Binary - [Problem 67](https://leetcode.com/problems/add-binary/)
+6. Day 6 - Remove Linked List Elements - [Problem 203](https://leetcode.com/problems/remove-linked-list-elements/)
