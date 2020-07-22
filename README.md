@@ -20,7 +20,6 @@
 6. Day 6 - Same Tree - [Problem 100](https://leetcode.com/problems/same-tree/)
 7. Day 7 - Angle Between Hands of a Clock - [Problem 1344](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
 
-
 ## Week 3
 
 1. Day 1 - Reverse Words in a String - [Problem 151](https://leetcode.com/problems/reverse-words-in-a-string/)
@@ -30,3 +29,7 @@
 5. Day 5 - Add Binary - [Problem 67](https://leetcode.com/problems/add-binary/)
 6. Day 6 - Remove Linked List Elements - [Problem 203](https://leetcode.com/problems/remove-linked-list-elements/)
 7. Day 7 - Word Search - [Problem 79](https://leetcode.com/problems/word-search/)
+
+## Week 4
+
+1. Day 1 - Binary Tree Zigzag Level Order Traversal - [Problem 103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
