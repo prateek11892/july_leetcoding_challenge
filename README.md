@@ -34,3 +34,4 @@
 
 1. Day 1 - Binary Tree Zigzag Level Order Traversal - [Problem 103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 2. Day 2 - Single Number III - [Problem 260](https://leetcode.com/problems/single-number-iii/)
+3. Day 3 - All Paths From Source to Target - [Problem 797](https://leetcode.com/problems/all-paths-from-source-to-target/)
