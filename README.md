@@ -38,3 +38,4 @@
 4. Day 4 - Find Minimum in Rotated Sorted Array II - [Problem 154](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 5. Day 5 - Add Digits - [Problem 258](https://leetcode.com/problems/add-digits/)
 6. Day 6 - Construct Binary Tree from Inorder and Postorder Traversal - [Problem 106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+7. Day 7 - Task Scheduler - [Problem 621](https://leetcode.com/problems/task-scheduler/)
