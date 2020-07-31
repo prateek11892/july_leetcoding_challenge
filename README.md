@@ -44,3 +44,4 @@
 
 1. Day 1 - Best Time to Buy and Sell Stock with Cooldown - [Problem 309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 2. Day 2 - Word Break II - [Problem 140](https://leetcode.com/problems/word-break-ii/)
+3. Day 3 - Climbing Stairs - [Problem 70](https://leetcode.com/problems/climbing-stairs/)
